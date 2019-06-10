@@ -1,0 +1,23 @@
+.login{
+margin-top: 7rem;
+
+}
+.example-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #F9E79F;
+}
+
+.example-container > * {
+  width: 100%;
+  font-size: 0.9rem;
+}
+
+
+.bodyRegistro{
+    height: 100%;
+    width: 100%;
+    background-image: url('http://los40mx00.epimg.net/los40/imagenes/2017/04/21/yaparate/1492788131_525673_1492789045_noticia_normal.jpg');
+    background-size: cover;
+    position: absolute;
+}
